@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "ID": 262787.0, "Latitude": 53.54034219, "Longitude": -113.5023194, "Location": "Park", "Type": "Chestnut, Horse", "Date_Plant": "1990\/01\/01", "BHD": 25.0, "Owner": "Parks" }, "geometry": { "type": "Point", "coordinates": [ -12635020.399463495239615, 7083578.803891553543508 ] } }
-]
-}
