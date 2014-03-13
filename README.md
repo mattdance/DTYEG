@@ -2,9 +2,11 @@ DTYEG
 =====
 
 <h1>Mapping Tutorial for Can You Dig It 2014</h1>
-	<h2><a href="http://huco.ualberta.ca/">Digital Humanities Conference at the UofA</a></h2>
+
 
 ===================================
+	<h2><a href="http://huco.ualberta.ca/">Digital Humanities Conference at the UofA</a></h2>
+
 <p>This mapping tutorial has 4 components that cover three seperate platforms:
 	<ol>
 	<li>Open Street Map</li>
