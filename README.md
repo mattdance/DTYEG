@@ -5,7 +5,7 @@ DTYEG
 
 
 ===================================
-	<h2><a href="http://huco.ualberta.ca/">Digital Humanities Conference at the UofA</a></h2>
+<p><a href="http://huco.ualberta.ca/">Digital Humanities Conference at the UofA</a></p>
 
 <p>This mapping tutorial has 4 components that cover three seperate platforms:
 	<ol>
