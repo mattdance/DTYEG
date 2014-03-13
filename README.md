@@ -7,6 +7,8 @@ DTYEG
 ===================================
 <p><a href="http://huco.ualberta.ca/">Digital Humanities Conference at the UofA</a></p>
 
+<p>We will be using <a href="http://cartodb.com/">CartoDB</a> as the mapping tool for this tutorial, so please, while we get going, head on over and sign up for a free account.</p>
+
 <p>This mapping tutorial has 4 components that cover three seperate platforms:
 	<ol>
 	<li>Open Street Map</li>
@@ -44,7 +46,9 @@ We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca
 </p>
 
 <p>
-	Please have a look at and download the following data from Edmonton's downtown (Ward 6) onto your desktop.  You may choose to dump them into an unique folder:
+	Please have a look at and download the following data from Edmonton's downtown (Ward 6) onto your desktop. The data are in the GitHub header, and we will do this together as I would like to show a couple of things.
+	
+	You may choose to dump them into an unique folder:
 	<ol>
 		<li>Buildings. Data from OpenStreetMap.</li>
 		<li>Surface Lots. Data from OpenStreetMap and Matt Dance.</li>
@@ -53,27 +57,33 @@ We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca
 	</ol>
 </p>
 
-C. Discuss the open data concept
-D. Finding Spatial Data
-	Often people want to make maps with data but just don't know where to start. While ideally you can upload some of your own data to CartoDB to play with, maybe you don't have data yet or are not sure where you would find the data you want. In those cases, it can be good to know some sites online to get good geospatial data.
-	Here are a couple of our favorites:
-	Natural Earth Data: data for borders, coastlines, cities, and many other useful collections!
-	OpenStreetMap: here you can get many of the features that make up our cities, including polygons for neighborhoods and cities, roads, and even lampposts.
-	Harvard Election Data Archive: we use this resource a lot. They keep a fantastic collection of elections data for races around the United States.
-	The Global Biodiversity Information Facility: GBIF provides a portal to thousands of collections and millions of biodiversity records. If you want to map nature, there is no better place to start.
+<h2>Open Data</h2>
+<p>
+"Open data is the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control." (from <a href"http://en.wikipedia.org/wiki/Open_data">Wikipedia</a>)
+</p>
+<p>
+The City of Edmonton's <a href="https://data.edmonton.ca/">open data</a> portal is run a <a href="http://www.socrata.com/">Socrata</a>, also a mapping platform, and currently contains about 240 data sets.  While I think that the portal is great, it does not have any really high value data on it.  So, you should registr as a user, and request data sets.
+</p>
 
-CartoDB - Points and Polygons
+<h2>CartoDB - Points and Polygons<h2>
+<p>
+With the goal of being 'open', I ripped most of this tutrial from CartoDB's <a href="http://developers.cartodb.com/tutorials.html">tutorial pages</a>. Also, look for CartoDB on Vimeo as they have some useful video tutorials.
+</p>
 
-Credit - link to original
-
-Summary
+<h3>Summary</h3>
+<p>
 This tutorial will walk you through the basics of CartoDB. It is meant for beginners looking to get started using the platform but still uncertain where to begin. It is also a good tutorial to read through if you just want to know some basic functionality to get started.
+</p>
 
-Creating a new table
+<h3>Creating a new table</h3>
+<p>
 Uploading your own data is easy. We accept many common data formats such as CSV, Excel, ESRI Shapefiles, and GPX files. If you use SHP files, be sure to create a ZIP archive of all associated files (.shp, .prj, .dbx, etc) and upload the zip with all the files at once. To upload any supported file, either drag it directly onto the dashboard page of your CartoDB account, or click the Create your first table button, click 'select a file' and locate the file on your system, finally click 'Create table'.
 
-Uploading data
-Write intructions on how to upload these data above.
+
+
+
+</p>
+
 
 
 Creating a map
