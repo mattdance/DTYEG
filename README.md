@@ -51,8 +51,6 @@ We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca
 	You may choose to dump them into an unique folder:
 	<ol>
 		<li>Buildings. Data from OpenStreetMap.</li>
-		<li>Surface Lots. Data from OpenStreetMap and Matt Dance.</li>
-		<li>Boundary. Data from City of Edmonton.</li>
 		<li>Trees. Data from City of Edmonton.</li>
 	</ol>
 </p>
