@@ -20,15 +20,15 @@ DTYEG
 <ol>
 	<li>It is open sourced, so;</li>
 	<li>The data is freely available;</li>
-	<li>Regional Extracts can be found <a href="http://download.geofabrik.de/">here</a></li>
-	<li>City Extracts can be found <a href="http://metro.teczno.com/">here</a></li>
+	<li>OSM Regional Extracts can be found <a href="http://download.geofabrik.de/">here</a></li>
+	<li>OSM City Extracts can be found <a href="http://metro.teczno.com/">here</a></li>
 </ol>	
-We will be using OSM data for one of our mapping projects.
+We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca/">open data</a> from the City of Edmonton for our mapping projects.
 </p>
 
 <h3>iD Editor</h3>
 <p>
-	The OSM iD Editor makes it easy to add spatial data.  I am not going to play this video here, but please reference back to this either later today when there is a break, or later later.
+	The OSM iD Editor makes it easy to add spatial data.  I am not going to play this video here, but please reference back to this either later today, when there is a break, or later later.
 </p>
 <p>
 	MapBox has a great introduction to <a href="https://www.mapbox.com/blog/new-map-editor-launches-openstreetmap/">iD Editor</a>.
@@ -36,7 +36,7 @@ We will be using OSM data for one of our mapping projects.
 
 <h2>GitHub</h2>
 <p>
-	GitHub is a web-based hosting service for software development projects that use the Git revision control system.GitHub offers both paid plans for private repositories, and free accounts for open source projects. The site provides social networking functionality such as feeds, followers, wikis and the social network graph to display how developers work on their versions of a repository.
+	GitHub is a web-based hosting service for software development projects that use the Git revision control system.GitHub offers both paid plans for private repositories, and free accounts for open source projects. The site provides social networking functionality such as feeds, followers, wikis and the social network graph to display how developers work on their versions of a repository. Git also offers an easy way to store and visualise spatial data.  We will explore more on this later.
 </p>
 
 <p>
