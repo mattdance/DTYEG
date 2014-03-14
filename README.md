@@ -5,7 +5,7 @@ DTYEG
 
 
 ===================================
-<p><a href="http://huco.ualberta.ca/">Digital Humanities Conference at the UofA</a></p>
+<p>Part of the <a href="http://huco.ualberta.ca/">Can You Dig It? 2014</a> Digital Humanities Conference at the UofA</p>
 
 <p>We will be using <a href="http://cartodb.com/">CartoDB</a> as the mapping tool for this tutorial, so please, while we get going, head on over and sign up for a free account.</p>
 
@@ -20,6 +20,10 @@ DTYEG
 <p>
 We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca/">open data</a> from the City of Edmonton for this mapping project.
 </p>
+<p>
+Also, you may want to reference my blog on <a href="http://www.matthewdance.ca/blog/neogeography/geoweb-tools/">How to make a web map.</a>
+</p>
+
 
 <h2>Open Street Map</h2>
 <p>OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. Two major driving forces behind the establishment and growth of OSM have been restrictions on use or availability of map information across much of the world and the advent of inexpensive portable satellite navigation devices.  OSM offers a couple of advantages:
