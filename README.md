@@ -130,6 +130,6 @@ publish map
 
 <h1>Torque</h1>
 <p>
-If we have some time, I we can play with Torque, an easy way to visualise time series data.
+If we have some time, we can play with Torque, an easy way to visualise time series data.
 </p>
 
