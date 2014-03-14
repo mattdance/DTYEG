@@ -78,43 +78,58 @@ This tutorial will walk you through the basics of CartoDB. It is meant for begin
 
 <h3>Creating a new table</h3>
 <p>
-Uploading your own data is easy. We accept many common data formats such as CSV, Excel, ESRI Shapefiles, and GPX files. If you use SHP files, be sure to create a ZIP archive of all associated files (.shp, .prj, .dbx, etc) and upload the zip with all the files at once. To upload any supported file, either drag it directly onto the dashboard page of your CartoDB account, or click the Create your first table button, click 'select a file' and locate the file on your system, finally click 'Create table'.
+Uploading your own data is easy. CartoDB accepts many common data formats such as CSV, Excel, ESRI Shapefiles, and GPX files. If you use SHP files, be sure to create a ZIP archive of all associated files (.shp, .prj, .dbx, etc) and upload the zip with all the files at once. To upload any supported file, either drag it directly onto the dashboard page of your CartoDB account, or click the Create your first table button, click 'select a file' and locate the file on your system, finally click 'Create table'.
 
-
-
-
+Uplaod both the trees and buildings files.
 </p>
 
+<h3>Creating a map</h3>
+<p>
+So now you have datasets you are interested in mapping. Start by selecting the Map view, above your table. A map will appear, and your data will be rendered with the default styles. Okay! Points and polygons on a map, mission accomplished. Play with map views on both tables.
+</p>
 
-
-Creating a map
-So now you have a dataset you are interested in mapping. Start by selecting the Map view, above your table. A map will appear, and your data will be rendered with the default styles. Okay! Points on a map, mission accomplished.
-
-Our first map
+<h3>Our first map</h3>
+<p>
 Not so quick, let's look around. You can see above the map an option for changing the baselayer of your map. This won't change your data, but it sure can change how your data looks. Click on it and test some of the basemaps we provide as options.
-
+</p>
+<p>
 Now let's explore some more options for map customization. To the right of the map you can see a toolbar with several buttons.
-
-Almost at the top is the SQL option which allows you to perform SQL queries on your tables. This is not for us now, but CartoDB offers a tutorial on that <here>.
-
+</p>
+<p>
+Almost at the top is the SQL option which allows you to perform SQL queries on your tables. This is not for us now, but CartoDB offers a tutorial on that.
+</p>
+<p>
 The next button is the Style option which gives you a menu for controlling the look of your visualizations. In this example, we can use options in the menu to change the fill color, width, stroke, labelling, etc. Play around with some of the settings to see what they do. By clicking the button again, you can close the interface and go back to seeing just your map.
+</p>
 
-Customization
-
+<h3>Customization</h3>
+<p>
 Next is the Infowindow option, for customizing the contents of the infowindows that are shown when you click your data on the map. You can modify the style of the infowindow and the information that is shown. You can reorder the list of fields in your infowindows by simple drag & drop of the field names in the menu.
-infowindows settings
-
+</p>
+<p>
 Take your time playing with the options until you get familiar how map customization works in CartoDB.
+</p>
 
-Visualize your map
-When you want to visualize different datasets or just share the map, you must create a visualization. Visualizations are where you will set and store all the filters and styles that you want to use in your published maps. Visualizations also let you add layers from multiple maps, mixing the data without having to write any complex code or queries. They also let you reuse data from the same tables in multiple visualizations without any difficulty. To get started with visualizations, click the orange Visualize button on the top right of the page. You will be prompted to add a name for your visualization, don't worry, you will be able to change it later.
+<h3>Visualize your map</h3>
+<p>
+When you want to visualize different datasets or just share the map, you must create a visualization. Visualizations are where you will set and store all the filters and styles that you want to use in your published maps. Visualizations also let you add layers from multiple maps, mixing the data without having to write any complex code or queries. They also let you reuse data from the same tables in multiple visualizations without any difficulty. 
+</p>
+<p>
+To combine and visualise your two tables, select one map to work from, and simply click the "+" button at the top of the sliding menu drawer and select your other table.
+</p>
 
-visualize map
+<p>
 Visualizations are similar to tables, you can quickly tell them apart by looking at the icon beside the table name and the visualization name in the Table View. Now that you have created your visualization, it will be available on your dashboard.
+</p>
 
-Publish your map
+<h3>Publish your map</h3>
+<p>
 Now that you have a Visualization just the way you want it, let's share it with some friends. Click the green Publish button in the top right of the page. From here you can customize how your published map is presented, including zoom and center, which interface elements to display, toggling layers, social media links, etc. At the bottom you will find a URL to share your Visualization via Twitter, email, or anywhere else. When you share that link, viewers will only be able to explore it on the map, they will not be able to edit any of your data. For more details, take a look at next tutorial.
 publish map
+</p>
 
-Troque
-Write this up myself.  What data do we want to viz?
+<h1>Torque</h1>
+<p>
+If we have some time, I we can play with Torque, an easy way to visualise time series data.
+</p>
+
