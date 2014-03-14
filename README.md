@@ -17,6 +17,10 @@ DTYEG
 	<li>CartoDB - temporal points</li>
 	</ol>
 </p>
+<p>
+We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca/">open data</a> from the City of Edmonton for this mapping project.
+</p>
+
 <h2>Open Street Map</h2>
 <p>OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. Two major driving forces behind the establishment and growth of OSM have been restrictions on use or availability of map information across much of the world and the advent of inexpensive portable satellite navigation devices.  OSM offers a couple of advantages:
 <ol>
@@ -24,11 +28,10 @@ DTYEG
 	<li>The data is freely available;</li>
 	<li>OSM Regional Extracts can be found <a href="http://download.geofabrik.de/">here</a></li>
 	<li>OSM City Extracts can be found <a href="http://metro.teczno.com/">here</a></li>
-</ol>	
-We will be using OSM data, in conjunction with <a href="https://data.edmonton.ca/">open data</a> from the City of Edmonton for our mapping projects.
+</ol>
 </p>
 
-<h3>iD Editor</h3>
+<h3>OSM iD Editor</h3>
 <p>
 	The OSM iD Editor makes it easy to add spatial data.  I am not going to play this video here, but please reference back to this either later today, when there is a break, or later later.
 </p>
